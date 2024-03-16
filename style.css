@@ -39,3 +39,33 @@
 .navbar-address-icon{
     display: flex;
 }
+.Search{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #0F1111;
+    width: 600px;
+    height: 40px;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+.small-box{
+    background-color: #f3f3f3;
+    width: 50px;
+    text-align: center;
+    border: none;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+.grey-search{
+    width: 100%;
+    border: none;
+}
+.search-logo{
+    width: 43px ;
+    background-color: #eaca84;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
