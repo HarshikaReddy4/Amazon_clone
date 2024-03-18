@@ -99,3 +99,21 @@
 .navbar-address{
     margin-left: 30px;
 }
+.panel{
+   display: flex;
+   height: 30px;
+   width:1500px;
+   background-color:#082737;
+   color: white;
+   align-items: center;
+}
+.panel-icon{
+    margin-left: 20px;
+}
+.all-text{
+    margin-left: 6px;
+}
+.hor{
+    display: inline-flex;
+    margin-left: 10px;
+}
